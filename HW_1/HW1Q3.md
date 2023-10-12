@@ -1,6 +1,6 @@
 ## Question 3
 
-![Question_3](Question3_hw1.png)
+![Question_3](question3_hw1.png)
 
 - a.
   Row: 263, Col: 10
